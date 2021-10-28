@@ -1,0 +1,9 @@
+
+
+
+
+
+class RatingModel{
+  var Rating;
+
+}
